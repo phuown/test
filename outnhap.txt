@@ -1,0 +1,8 @@
+thong tin hoc sinh thu 1 la : 
+ho va ten : ptt
+diem trung binh : 8.00
+ho va ten : u
+thong tin hoc sinh thu 2 la : 
+ho va ten : dfs
+diem trung binh : 9.00
+ho va ten : h
